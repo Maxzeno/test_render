@@ -1,7 +1,4 @@
 asgiref
 Django
 gunicorn
-python-decouple
-sqlparse
-tzdata
-xlwt
+
