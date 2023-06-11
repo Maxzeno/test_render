@@ -14,3 +14,6 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'test_render.settings')
 
 application = get_wsgi_application()
+
+# added this to host on vercel
+app = application
